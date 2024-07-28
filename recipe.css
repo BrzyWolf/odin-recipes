@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    font-size: 36;
+    font-weight: 700;
+    font-family: sans-serif;
+    
+
+
+
+
+}
+
+
+
+
+.tacos {
+    background-color: hsl(0, 100%, 75%);
+
+}
+
+.chorizo {
+    background-color: hsl(155, 66%, 69%);
+
+}
+
+.bbq {
+    background-color: hsl(39, 100%, 75%);
+
+}
+
+.tacos, .chorizo, .bbq {
+    max-width: 100%;
+}
+
+.list {
+    width: 500px;
+    margin: 20px auto;
+    padding: 25% 25%;
+    border: solid black 20px;
+    text-align: center;
+    position: relative;
+}
